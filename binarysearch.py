@@ -10,7 +10,7 @@ def b_s(list,n):
         else:
             if n<list[m]:
                 u=m-1
-            else :
+            else:
                 l=m+1
                 
     return False
