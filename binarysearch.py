@@ -20,4 +20,4 @@ n=65
 if b_s(list,n):
     print("found at",pos+1)
 else:
-        print("not found")
+    print("not found")
